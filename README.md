@@ -2,7 +2,7 @@
 ## *A web analytics keyword dashboard*
 
 ### Back-End : 
-[twitter_api_project_back_end](hhttps://github.com/noeklk/twitter_api_project_back_end)
+[twitter_api_project_back_end](hhttps://github.com/ouijdane110/twitter_api_project_back_end)
 
 ### Description
 
@@ -16,7 +16,7 @@ This application allows :
 
 ### Instructions
 
-1.  You can either clone the project or download the latest release here :  [twitter_api_project_front_end](https://github.com/noeklk/twitter_api_project_front_end.git)
+1.  You can either clone the project or download the latest release here :  [twitter_api_project_front_end](https://github.com/ouijdane110/twitter_api_project_front_end.git)
 2.  Install docker & docker-compose
 3.  Position yourself at the root of the project  `cd twitter_api_project_front_end`
 
