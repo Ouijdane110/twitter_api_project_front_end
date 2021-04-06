@@ -49,3 +49,4 @@ Here is a few requirements to use the application with the api referenced up the
 
 
 **Ouijdane EL IDRISSI RIOUI** - *Front-End & Back-End Developer*
+
